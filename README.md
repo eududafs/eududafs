@@ -1,5 +1,5 @@
-# Olá, me chamo Maria Eduarda ! 
-## Bem vindo ao meu perfil GitHub 👋
+#✨ Hi there, I'm Maria Eduarda! ✨
+
 
 ## Hi there 👋
 
