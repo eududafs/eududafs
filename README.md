@@ -1,20 +1,9 @@
 ## Hi there, I'm Maria Eduarda! 👋✨
 
-# Olá, sou Maria Eduarda Ferreira de Souza! 👋✨
-
-Estudo **Análise e Desenvolvimento de Sistemas** na **PUC Betim**, com previsão de formatura para junho de 2026. Minha paixão por tecnologia e programação surgiu cedo e me levou a cursar **Desenvolvimento de Sistemas** no **SESI Senai Betim**, onde participei de diversos projetos que aprimoraram minhas habilidades em **resolução de problemas**, **trabalho em equipe**, **lógica de programação** e **gestão de projetos**.
-
-💡 **O que me motiva**: Desenvolver soluções inovadoras e utilizar a programação para resolver problemas do cotidiano. Ao longo da minha jornada, descobri o impacto que sistemas e aplicativos têm em nossa vida, o que me inspirou a seguir a carreira de desenvolvedora.
-
-💼 **Experiência Profissional**:
-- **Auxiliar de escritório** na **Mineira Distribuidora de Pisos**: Melhorei habilidades de responsabilidade, comprometimento e comunicação.
-- **Operadora de loja** na **Minas Decor Acabamentos**: Desenvolvi autonomia e a capacidade de trabalhar sob pressão em ambientes dinâmicos.
-
-🎓 **Destaques Acadêmicos**:
-- Fui **aluna destaque** no primeiro semestre da faculdade, o que me motivou ainda mais a buscar excelência.
-- Concluí um **curso completo de Informática** e possuo **inglês intermediário**, o que me ajuda a atuar no cenário global de tecnologia.
-
-🚀 **Objetivo Profissional**: Busco uma oportunidade para ingressar em uma posição inicial em **Desenvolvimento de Software** ou **Análise de Sistemas**, onde possa aplicar meus conhecimentos, crescer profissionalmente e contribuir para o sucesso da equipe e da empresa.
+✨ Olá, sou Maria Eduarda! ✨  
+Estudante de **Análise e Desenvolvimento de Sistemas** na **PUC Betim**.  
+Apaixonada por **programação**, **desenvolvimento de software** e **soluções tecnológicas**.  
+Sempre em busca de novos desafios e oportunidades para crescer e aprender! 🚀
 
 ## Tecnologias e Ferramentas que utilizo 💻
 
