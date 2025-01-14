@@ -1,7 +1,7 @@
 #✨ Hi there, I'm Maria Eduarda! ✨
 
 
-##✨ Hi there, I'm Maria Eduarda! 👋
+## Hi there, I'm Maria Eduarda! 👋
 
 <!--
 **eududafs/eududafs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
