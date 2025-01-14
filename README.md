@@ -20,10 +20,20 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
+## Entre em Contato 📫
 
-🔗 **Entre em contato**:
-- Email: [mariaeduarda@example.com](mailto:mariaeduarda@example.com)
-- LinkedIn: [linkedin.com/in/mariaeduardaf](https://www.linkedin.com/in/mariaeduardaf)
+<div>
+  <a href="[https://www.linkedin.com/in/mariaeduardaf" target="_blank](https://www.linkedin.com/in/mariaeduardafs?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/eu_dudafs" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:maria.ferreira.sse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
 
 Estou sempre aberta a novos projetos e desafios! Vamos conversar! 😊
 
