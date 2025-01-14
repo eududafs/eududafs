@@ -1,7 +1,6 @@
 ## Hi there, I'm Maria Eduarda! 👋✨
 
-✨ Olá, sou Maria Eduarda! ✨  
-Estudante de **Análise e Desenvolvimento de Sistemas** na **PUC Betim**.  
+<li>Estudante de **Análise e Desenvolvimento de Sistemas** na **PUC Betim**.</li>  
 Apaixonada por **programação**, **desenvolvimento de software** e **soluções tecnológicas**.  
 Sempre em busca de novos desafios e oportunidades para crescer e aprender! 🚀
 
